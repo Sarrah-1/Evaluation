@@ -1,15 +1,6 @@
 # Application de Gestion des Assurances et Contrats (JPA / Hibernate)
 
-Projet développé dans le cadre du module **Programmation Avancée et DevOps** (Master).
-
-## 🛠️ Technologies & Outils
-* **Langage** : Java (JDK 8+)
-* **ORM** : Hibernate / JPA
-* **Base de données** : MySQL
-* **Gestionnaire de dépendances** : Maven
-* **IDE** : IntelliJ IDEA / Eclipse
-
----
+Projet développé dans le cadre du module **Programmation Avancée et DevOps**
 
 ## 📁 Architecture du Projet
 
